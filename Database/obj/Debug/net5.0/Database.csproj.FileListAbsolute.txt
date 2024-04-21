@@ -1,0 +1,15 @@
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\bin\Debug\net5.0\Database.deps.json
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\bin\Debug\net5.0\Database.runtimeconfig.json
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\bin\Debug\net5.0\Database.runtimeconfig.dev.json
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\bin\Debug\net5.0\Database.dll
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\bin\Debug\net5.0\ref\Database.dll
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\bin\Debug\net5.0\Database.pdb
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\obj\Debug\net5.0\Database.csprojAssemblyReference.cache
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\obj\Debug\net5.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\obj\Debug\net5.0\Database.AssemblyInfoInputs.cache
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\obj\Debug\net5.0\Database.AssemblyInfo.cs
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\obj\Debug\net5.0\Database.csproj.CoreCompileInputs.cache
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\obj\Debug\net5.0\Database.dll
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\obj\Debug\net5.0\ref\Database.dll
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\obj\Debug\net5.0\Database.pdb
+m:\Projetos VSCODE\Teste Positivo\TestePositivo\Database\obj\Debug\net5.0\Database.genruntimeconfig.cache
