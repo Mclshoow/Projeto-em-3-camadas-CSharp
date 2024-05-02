@@ -1,4 +1,4 @@
-Marcelo Augusto da Costa Araujo
+Marcelo Augusto da Costa Araujo  
 Nacionalidade: Brasileiro. | Data de nascimento: 22/09/1998, Cidade: Curitiba - PR. Telefones: (41)
 98478-4804 (WhatsApp). | E-mail: marcelo.1998@live.com |
 GitHub: www.github.com/mclshoow | LinkedIn: www.linkedin.com/in/mclshoow
